@@ -1,4 +1,4 @@
-# CPP102 Weel 1 Activity
+# CPP102 Week 1 Activity
 Ma. Eleonor A. De vera
 CPP102 - Programming Logic and Design
 Introduction to Python, Git, and GitHub
